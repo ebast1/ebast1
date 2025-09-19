@@ -1,11 +1,14 @@
 <h1>Ethan Bast</h1>
 <h3>👋 Welcome to my profile</h3>
 <pre>
-    Detroit-based developer with a background in app development and a growing focus on fullstack
-    engineering. I recently completed the Apple Developer Academy, where I built user-focused
-    iOS applications and learned to approach problems with empathy and iteration. I’m currently
-    expanding my backend skills through a full stack C# .NET and Java coding bootcamp through
-    Grand Circus.
+    I’m a Detroit-based developer with a background in app development and a growing focus on full-stack 
+    engineering. I completed the Apple Developer Academy, where I built user-centered iOS applications 
+    and learned to approach  problem-solving with empathy and iteration. Most recently, I graduated 
+    from the Full Stack C# .NET and Java bootcamp at Grand Circus, where I strengthened my skills in 
+    backend and full-stack development. Right now, I’m working on a Movie Trivia Application built 
+    with Angular, TypeScript, HTML, CSS, and the OMDB API—focusing on creating an engaging user 
+    experience while applying clean, scalable design principles. I’m always excited to collaborate, 
+    learn from others, and contribute to impactful projects.Let’s connect and build something great.
 </pre>
 
 <div align="center">
