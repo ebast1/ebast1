@@ -6,22 +6,22 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ebast1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ebast1&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ebast1&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="360" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div class="tenor-gif-embed" data-postid="20710052" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
-<img src="https://tenor.com/view/jujutsu-kasen-gif-20710052" height="150" alt="Jujutsu Kaisen Gojo Satoru Gif">
+<div align="center">
+<img src="https://raw.githubusercontent.com/ebast1/ebast1/refs/heads/main/assets/jujutsu-kasen.gif" alt="Jujutsu Kaisen Gojo Satoru Gif">
 </div>
 
 
 
 ###
 
-<div align="center">
+<div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
