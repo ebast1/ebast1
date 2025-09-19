@@ -13,9 +13,11 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://tenor.com/view/jujutsu-kasen-gif-20710052"  />
+<div class="tenor-gif-embed" data-postid="20710052" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
+<img src="https://tenor.com/view/jujutsu-kasen-gif-20710052" height="150" alt="Jujutsu Kaisen Gojo Satoru Gif">
 </div>
+
+
 
 ###
 
